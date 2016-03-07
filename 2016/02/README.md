@@ -8,6 +8,6 @@ Put the code in the following directories:
 - **`\Extensible`** => Joel, Mordan, and Eddy (C#)
 - **`\Readable_01`** => Octavio, and Orlando (Java)
 - **`\Fast`** => Eduardo, Ambiorix, and Carlos (F#)
-- **`\Readable_02`** => Hipolito, Claudio, and ___ [sorry I miss the name of the new one :( ] (C#)
+- **`\Readable_02`** => Hipolito, Claudio, and Jonathan (C#)
 
 ***Format:*** `\dir_name` => Group members (Programming Language)
